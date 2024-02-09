@@ -1,0 +1,3 @@
+curl --cocation --output ./kind #URL Download
+chmod +x ./kind
+./kind --version
